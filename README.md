@@ -10,11 +10,11 @@ Well, my challenge was did a solution to the [Product preview card component cha
 
 Desktop preview :
 
-(./design/desktop-preview-finished.png)
+<img src="/design/desktop-preview-finished.png"></img>
 
 Mobile preview :
 
-(./design/mobile-preview-finished.png)
+<img src="./design/mobile-preview-finished.png"></img>
 
 ### Links
 
