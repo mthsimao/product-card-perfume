@@ -1,6 +1,8 @@
 # Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the :
+<img src="./design/desktop-preview.jpg"> </img>
+[Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## The challenge
 
@@ -10,11 +12,11 @@ Well, my challenge was did a solution to the [Product preview card component cha
 
 Desktop preview :
 
-(./design/desktop-preview-finished.png)
+<img src="./design/desktop-preview-finished.png"> </img>
 
 Mobile preview :
 
-(./design/mobile-preview-finished.png)
+<img src="./design/mobile-preview-finished.png"> </img>
 
 ### Links
 
