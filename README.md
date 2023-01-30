@@ -5,7 +5,7 @@
 
 ## The challenge
 
-Well, my challenge was did a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa), and i made this solution as you can see down here.
+Well, my challenge was make a solution for the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa), and i made this solution as you can see down here.
 
 ### Screenshot
 
